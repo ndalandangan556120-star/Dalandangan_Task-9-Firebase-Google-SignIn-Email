@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "714314324182",
+    "project_id": "notes-14005",
+    "storage_bucket": "notes-14005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714314324182:android:788c5214804fca2e701177",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crudnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714314324182-8q93jutvblfci8nnu4usoj08s02hsbmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ZJUZUd2FFQyje_l4qp2ZBmQaC6JsnvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714314324182-8q93jutvblfci8nnu4usoj08s02hsbmc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714314324182-uu501sm1did2fmp4vg0rt4fhp267sqip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrudnote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
